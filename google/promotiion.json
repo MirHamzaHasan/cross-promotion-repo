@@ -1,11 +1,11 @@
 [
     {
-        "promotion_id": "PROMO123",
-        "one_link": "https://www.example.com/promo123",
-        "landscape_image": "https://www.example.com/images/promo123_landscape.jpg",
-        "portrait_image": "https://www.example.com/images/promo123_portrait.jpg",
+        "promotion_id": "com.dracoarts.snipershooter",
+        "one_link": "https://www.dracoarts.com",
+        "landscape_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp",
+        "portrait_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp",
         "is_active": true,
-        "icon_url": "https://www.example.com/images/promo123_icon.png"
+        "icon_url": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp"
     }
         
     

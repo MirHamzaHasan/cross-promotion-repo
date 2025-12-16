@@ -1,0 +1,12 @@
+[
+    {
+        "promotion_id": "PROMO123",
+        "one_link": "https://www.example.com/promo123",
+        "landscape_image": "https://www.example.com/images/promo123_landscape.jpg",
+        "portrait_image": "https://www.example.com/images/promo123_portrait.jpg",
+        "is_active": true,
+        "icon_url": "https://www.example.com/images/promo123_icon.png"
+    }
+        
+    
+]

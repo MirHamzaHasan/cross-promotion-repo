@@ -5,9 +5,9 @@
     {
       "promotion_id": "com.dracoarts.snipershooter",
       "one_link": "https://www.dracoarts.com",
-      "landscape_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp",
-      "potrait_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp",
-      "icon_url": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/sniper-shooter/icon.webp",
+      "landscape_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/bounce-tales/icon.png",
+      "potrait_image": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/bounce-tales/icon.png",
+      "icon_url": "https://cdn.jsdelivr.net/gh/MirHamzaHasan/cross-promotion-repo@main/content/bounce-tales/icon.png",
       "is_active": true
     }
   ]
